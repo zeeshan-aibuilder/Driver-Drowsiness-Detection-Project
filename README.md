@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="900">
-</p>
-
 # 🚗 Driver Drowsiness Detection System
 
 <p align="center">
